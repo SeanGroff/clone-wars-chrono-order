@@ -9,12 +9,15 @@
     "export": "next export"
   },
   "dependencies": {
+    "autoprefixer": "^10.1.0",
     "cheerio": "^1.0.0-rc.3",
     "next": "10.0.3",
     "node-fetch": "^2.6.1",
+    "postcss": "^8.2.0",
     "puppeteer": "^5.5.0",
     "react": "17.0.1",
-    "react-dom": "17.0.1"
+    "react-dom": "17.0.1",
+    "tailwindcss": "^2.0.1"
   },
   "devDependencies": {
     "prettier": "^2.2.1"
